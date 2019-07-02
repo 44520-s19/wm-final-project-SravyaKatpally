@@ -1,5 +1,3 @@
-
-# Zomato_Project
 # Web Mining Final Project
 ## Zomato Ratings at different locations
 ### Question 

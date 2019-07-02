@@ -1,6 +1,5 @@
-# wm-final-project-SravyaKatpally
-wm-final-project-SravyaKatpally created by GitHub Classroom
-# Zomato_ratings_Project
+
+# Zomato_Project
 # Web Mining Final Project
 ## Zomato Ratings at different locations
 ### Question 

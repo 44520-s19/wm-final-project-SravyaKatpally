@@ -10,6 +10,7 @@
 ##### 3. Requests
 ##### 4. Matplotlib
 ##### 5. Seaborn
+##### 6. Pickle
 ### Procedure
 ##### 1. Web Scraping a Zomato Website https://www.zomato.com by sending html requests.
 ##### 2. Pickling and Loading data.
